@@ -26,7 +26,7 @@ class StudentsController < ApplicationController
         name: "Kaoru Kohashigawa",
         city: "Hawaii",
         description: "Commutes from Temple everyday",
-    picture_url: "https://s3.amazonaws.com/blogimages.socialagency.com/9627312358f43871c885a1a524e9f606.png"
+    picture_url: "http://bit.ly/16GkyOL"
     }     
   end
 end
